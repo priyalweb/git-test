@@ -45,6 +45,7 @@ body {
 .form_bottom{
     border: dotted;
     border-color: gainsboro;
+    padding: 3%;
 }
 
 .tab-content{
